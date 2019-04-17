@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+input {
+    margin-top: 10px;
+}
+
+.link {
+    cursor: pointer;
+}
+
+audio {
+    width: 95%;
+    max-width: 600px;
+}
